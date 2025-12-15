@@ -2,10 +2,8 @@
 {
 "wallpaper":"https://wp.upx8.com/api.php",
 "logo":"https://gitee.com/ztha001/th/raw/master/IMG_7090.GIF",
-"spider":"./ztha.jar?id=index;md5;174a252cc07fac93ac5eab6ef8645981",
-"warningText":"公众号【挺好分享】网络收集免费分享勿演示贩卖！app提示:
-📢接口软件永远免费 
-📢长期维护切勿贩卖",
+"spider":"https://cdn.gh-proxy.org/https://github.com/mxysmxys/mxysmxys/blob/main/mxys.jar?id=index;md5;174a252cc07fac93ac5eab6ef8645981",
+"warningText":"魔性影视TV公众号【魔性】",
 "lives":[
   
 {
